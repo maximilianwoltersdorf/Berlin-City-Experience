@@ -20,11 +20,11 @@
 		<p>Report a Bug</p>		
 
 		<ul data-role="listview" data-inset="true" >
-			<li><a href="newentry.html"  data-ajax="false">Vorschlag einreichen</a></li>
-			<li><a href="audi.html">Alle Vorschläge ansehen</a></li>
-			<li><a href="bmw.html">Meine Einträge</a></li>
-			<li><a href="bmw.html">Profil</a></li>
-			<li><a href="bmw.html">Meine Einträge</a></li>
+			<li><a href="new_entry.html"  data-ajax="false">Vorschlag einreichen</a></li>
+			<li><a href="all_entries.html">Alle Vorschläge ansehen</a></li>
+			<li><a href="my_entries.html">Meine Einträge</a></li>
+			<li><a href="my_profil.html">Profil</a></li>
+
 		</ul>
 
 	</div><!-- /content -->
