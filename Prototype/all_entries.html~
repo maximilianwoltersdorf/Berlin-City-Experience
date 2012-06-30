@@ -27,19 +27,19 @@
 			    </a>
 			</li>
 
-			<li><a href="entry2.html">  <h3 class="ui-li-heading">Eintrag 2</h3>
+			<li><a href="entry2.html" data-ajax="false">  <h3 class="ui-li-heading">Eintrag 2</h3>
 			    <p class="ui-li-desc">Am 30.6.2012 vorgeschlagen</p>
 				<span class="ui-li-count">5 Votes</span></a>
 			</li>
-			<li><a href="entry3.html">  <h3 class="ui-li-heading">Eintrag 1</h3>
+			<li><a href="entry3.html" data-ajax="false">  <h3 class="ui-li-heading">Eintrag 1</h3>
 			    <p class="ui-li-desc">Am 30.6.2012 vorgeschlagen</p>
 				<span class="ui-li-count">12 Votes</span></a>
 			</li>
-			<li><a href="entry4.html">  <h3 class="ui-li-heading">Eintrag 1</h3>
+			<li><a href="entry4.html" data-ajax="false">  <h3 class="ui-li-heading">Eintrag 1</h3>
 			    <p class="ui-li-desc">Am 30.6.2012 vorgeschlagen</p>
 				<span class="ui-li-count">7 Votes</span></a>
 			</li>
-			<li><a href="entry5.html">  <h3 class="ui-li-heading">Eintrag 1</h3>
+			<li><a href="entry5.html" data-ajax="false">  <h3 class="ui-li-heading">Eintrag 1</h3>
 			    <p class="ui-li-desc">Am 30.6.2012 vorgeschlagen</p>
 				<span class="ui-li-count">3 Votes</span></a>
 			</li>
