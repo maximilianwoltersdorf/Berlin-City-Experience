@@ -16,7 +16,17 @@
 	</div><!-- /header -->
 
 	<div data-role="content">	
-		<p>Neuer Eintrag</p>		
+		<form action="form.php" method="post"> 
+			<label for="basic">Titel:</label>
+			<input type="text" name="title" id="basic" data-mini="true" />
+			<label for="basic">Foto:</label> 
+			<input name="Datei" type="file" size="50" maxlength="100000" accept="text/*" data-ajax="false">
+			<label for="basic">Beschreibung:</label>
+			<input type="text" name="description" id="basic" data-mini="true" />
+			<label for="basic">Tags:</label>
+			<input type="text" name="tags" id="basic" data-mini="true" />
+		 </form>
+				
 
 		<!--<ul data-role="listview" data-inset="true" >
 			<li><a href="acura.html">Vorschlag einreichen</a></li>
