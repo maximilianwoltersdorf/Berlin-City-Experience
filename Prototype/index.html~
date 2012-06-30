@@ -12,11 +12,20 @@
 <div data-role="page">
 
 	<div data-role="header">
-		<h1>My Title</h1>
+		<h1>Real Live Bug Reporter</h1>
 	</div><!-- /header -->
 
 	<div data-role="content">	
-		<p>Hello world</p>		
+		<p>Report a Bug</p>		
+
+		<ul data-role="listview" data-inset="true" >
+			<li><a href="acura.html">Vorschlag einreichen</a></li>
+			<li><a href="audi.html">Alle Vorschläge ansehen</a></li>
+			<li><a href="bmw.html">Meine Einträge</a></li>
+			<li><a href="bmw.html">Profil</a></li>
+			<li><a href="bmw.html">Meine Einträge</a></li>
+		</ul>
+
 	</div><!-- /content -->
 
 </div><!-- /page -->
