@@ -20,7 +20,7 @@
 		<p>Alle Einträge</p>		
 
 		<ul data-role="listview" data-inset="true" >
-			<li><a href="entry1.html" data-ajax="false">
+			<li><a href="entry1.html">
 			    <h3 class="ui-li-heading">Eintrag 1</h3>
 			    <p class="ui-li-desc">Am 30.6.2012 vorgeschlagen</p>
 				<span class="ui-li-count">12 Votes</span>

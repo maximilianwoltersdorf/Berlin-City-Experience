@@ -1,0 +1,34 @@
+<!DOCTYPE html> 
+<html> 
+	<head> 
+	<title>My Page</title> 
+	<meta name="viewport" content="width=device-width, initial-scale=1"> 
+	<link rel="stylesheet" href="http://code.jquery.com/mobile/1.1.0/jquery.mobile-1.1.0.min.css" />
+	<script src="http://code.jquery.com/jquery-1.7.1.min.js"></script>
+	<script src="http://code.jquery.com/mobile/1.1.0/jquery.mobile-1.1.0.min.js"></script>
+</head> 
+<body> 
+
+<div data-role="page">
+
+	<div data-role="header">
+		<h1>Real Live Bug Reporter</h1>
+	</div><!-- /header -->
+
+	<div data-role="content">	
+		<p>Meine Einträge</p>		
+
+		<!--<ul data-role="listview" data-inset="true" >
+			<li><a href="acura.html">Vorschlag einreichen</a></li>
+			<li><a href="audi.html">Alle Vorschläge ansehen</a></li>
+			<li><a href="bmw.html">Meine Einträge</a></li>
+			<li><a href="bmw.html">Profil</a></li>
+			<li><a href="bmw.html">Meine Einträge</a></li>
+		</ul> -->
+
+	</div><!-- /content -->
+
+</div><!-- /page -->
+
+</body>
+</html>
