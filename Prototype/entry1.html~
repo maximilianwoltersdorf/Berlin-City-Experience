@@ -23,8 +23,18 @@
 							align:center;
 							text-align:center;"/>
 				
-		<label for="number" class="ui-input-text">Vote:</label>
-		<input type="number" name="number" id="number" value="" class="ui-input-text ui-body-c ui-corner-all ui-shadow-inset">
+		<label for="number" class="ui-input-text">Voting:</label>
+		<input type="number" name="number" id="number" value="5" class="ui-input-text ui-body-c ui-corner-all ui-shadow-inset">
+		
+		<label for="textarea-a">Beschreibung:</label>
+		<textarea name="textarea" id="textarea-a">Hier kommt der Beschreibungstext hin
+		</textarea>
+		<label for="textarea-a">Kommentare:</label>
+		<p>Username 1
+		   Voll Geil!!!
+		</p>
+		<label for="basic">Neuer Kommentar:</label>
+		<input type="text" name="name" id="basic" value="" data-mini="true" />
 
 	</div><!-- /content -->
 
